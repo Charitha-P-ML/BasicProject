@@ -1,5 +1,5 @@
 print("project")
-if 5<6:
+if 9>6:
 	print("true")
 else:
 	print("false")
