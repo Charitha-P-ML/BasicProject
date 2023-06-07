@@ -1,1 +1,5 @@
-print("hjkhj")
+print("project")
+if 5<6:
+	print("true")
+else:
+	print("false")
